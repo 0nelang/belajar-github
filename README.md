@@ -1,2 +1,2 @@
 # belajar-github
-belajar menghungbungkan file
+belajar menghubungkan file
